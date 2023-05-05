@@ -1,9 +1,12 @@
-title: Intivate Wiki
-description: Windows Phone
-theme: just-the-docs
-color_scheme: "dark"
+title: Windows Phone # Title that appears in the top-left corner of the website.
 
-url: https://intwiki.filipecollura.com
+theme: just-the-docs # The Jekyll theme selected, which is Just the Docs.
+color_scheme: "dark" # Dark mode chosen as the Just the Docs theme.
 
-aux_links: # Remove this if you don't want this link to appear on your pages
-  View it on GitHub: https://github.com/Intivate/Wiki
+logo: "Assets/Logo/intivate_logo.png" # Logo that appears in the top-left corner of the website, next to the title.
+favicon_ico: "Assets/Logo/Favicon/intivate_logo.ico" # Website's favicon.
+
+url: https://intwiki.filipecollura.com # Website URL.
+
+aux_links: # Button that appears in the top-right corner of the website, redirecting the user to this repository.
+  View it on GitHub: https://github.com/Intivate/Wiki # The text of the button + the website it redirects to.
