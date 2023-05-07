@@ -4,7 +4,6 @@ theme: just-the-docs # The Jekyll theme selected, which is Just the Docs.
 color_scheme: "dark" # Dark mode chosen as the Just the Docs theme.
 
 logo: "Assets/Logo/int_windows-phone_logo.png" # Logo that appears in the top-left corner of the website, next to the title.
-favicon_ico: "Assets/Logo/Favicon/intivate_logo.ico" # Website's favicon.
 
 url: https://intwiki.filipecollura.com # Website URL.
 
