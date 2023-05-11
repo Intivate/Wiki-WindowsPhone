@@ -5,6 +5,7 @@ theme: just-the-docs # The Jekyll theme selected, which is Just the Docs.
 color_scheme: "dark" # Dark mode chosen as the Just the Docs theme.
 
 url: https://intwiki.filipecollura.com # Website URL.
+favicon: /assets/favicons/favicon.ico
 
 aux_links: # Button that appears in the top-right corner of the website, redirecting the user to this repository.
   View it on GitHub: https://github.com/Intivate/Wiki # [The text of the button: the website it redirects to.]
