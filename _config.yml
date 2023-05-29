@@ -8,8 +8,8 @@ url: https://intwiki.filipecollura.com # Website URL.
 favicon: /assets/favicons/favicon.ico
 
 aux_links: # Buttons that appear in the top-right corner of the website.
-  "Contribute to the Wiki":
+  "Contribute":
     - "//github.com/intivate/wiki-windowsphone"
-  "Donate":
+  "Help":
     - "https://int.filipecollura.com"
 aux_links_new_tab: true # Determines if the aux link opens in a new tab, or replaces the existing one.
