@@ -1,4 +1,6 @@
-title: Windows Phone # Title that appears in the top-left corner of the website if no logo is selected.
+title: Windows Phone Wiki # The title also appears in the top-left corner of the website if no logo is selected.
+description: Intivate
+
 logo: "Assets/Logo/uethpihehyoihei0herg.png" # Logo that appears in the top-left corner of the website, next to the title.
 
 theme: just-the-docs # The Jekyll theme selected, which is Just the Docs.
@@ -12,7 +14,7 @@ aux_links: # Buttons that appear in the top-right corner of the website.
     - "//github.com/intivate/wiki-windowsphone"
   "Help":
     - "https://int.filipecollura.com"
-aux_links_new_tab: true # Determines if the aux link opens in a new tab, or replaces the existing one.
+aux_links_new_tab: true # Determines if an aux link opens in a new tab, or replaces the existing one.
 
 footer_content: "Copyright &copy; 2023 Me, Myself, and I. Distributed by an <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a>" # Custom footer content, seen at the bottom-left corner of the website.
 
