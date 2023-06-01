@@ -1,7 +1,7 @@
 title: Windows Phone Wiki # The title also appears in the top-left corner of the website if no logo is selected.
 description: Intivate
 
-logo: "Assets/Logo/uethpihehyoihei0herg.png" # Logo that appears in the top-left corner of the website, next to the title.
+logo: "assets/windows_phone.png" # Logo that appears in the top-left corner of the website, next to the title.
 
 theme: just-the-docs # The Jekyll theme selected, which is Just the Docs.
 color_scheme: "dark" # Dark mode chosen as the Just the Docs theme.
@@ -10,12 +10,12 @@ url: https://intwiki.filipecollura.com # Website URL.
 favicon: /assets/favicons/favicon.ico
 
 aux_links: # Buttons that appear in the top-right corner of the website.
-  "Contribute":
+  "contribute":
     - "//github.com/intivate/wiki-windowsphone"
-  "Help":
+  "help + support":
     - "https://int.filipecollura.com"
 aux_links_new_tab: true # Determines if an aux link opens in a new tab, or replaces the existing one.
 
-footer_content: "Bopyright &copy; 2023 <a href=\"https://filipecollura.com\">nobody.</a>" # Custom footer content, seen at the bottom-left corner of the website.
+footer_content: "Nopyright &copy; 2023 <a href=\"https://filipecollura.com\">Filipe Collura.</a>" # Custom footer content, seen at the bottom-left corner of the website.
 
 enable_copy_code_button: true # Determines whether documented code snippets can be copied.
