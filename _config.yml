@@ -1,7 +1,7 @@
 title: Windows Phone Wiki # The title also appears in the top-left corner of the website if no logo is selected.
 description: Intivate
 
-logo: "assets/windows_phone.png" # Logo that appears in the top-left corner of the website, next to the title.
+logo: "assets/intivate_wiki_logo.png" # Logo that appears in the top-left corner of the website, next to the title.
 
 theme: just-the-docs # The Jekyll theme selected, which is Just the Docs.
 color_scheme: "dark" # Dark mode chosen as the Just the Docs theme.
