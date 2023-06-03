@@ -4,7 +4,7 @@ description: Intivate
 logo: "assets/intivate_wiki_logo.png" # Logo that appears in the top-left corner of the website, next to the title.
 
 theme: just-the-docs # The Jekyll theme selected, which is Just the Docs.
-color_scheme: "dark" # Dark mode chosen as the Just the Docs theme.
+color_scheme: "intivatetheme" # Dark mode chosen as the Just the Docs theme.
 
 url: https://intwiki.filipecollura.com # Website URL.
 favicon: /assets/favicons/favicon.ico
