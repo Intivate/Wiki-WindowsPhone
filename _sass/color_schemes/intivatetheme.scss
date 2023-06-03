@@ -1,5 +1,6 @@
 @import "./color_schemes/dark"; /* Imports the base dark theme, instead of the light theme. */
 
+$body-background-color: 000000;
 $body-font-family: "Segoe UI"; /* Determines the font. */
 $link-color: #E66363; /* Determines the colour of links. */
 $base-button-color: $grey-dk-300;
