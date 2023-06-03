@@ -1,5 +1,5 @@
-@import "./color_schemes/dark";
+@import "./color_schemes/dark"; /* Imports the base dark theme, instead of the light theme. */
 
-$body-font-family: roboto;
-$link-color: $red-300;
-$btn-primary-color: $red-200;
+$body-font-family: "Segoe UI"; /* Determines the font. */
+$link-color: $red-300; /* Determines the colour of links. */
+$btn-primary-color: $red-200; /* Determines the colour of buttons. */
